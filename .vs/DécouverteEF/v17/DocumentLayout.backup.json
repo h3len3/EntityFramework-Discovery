@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C7358F-E619-404E-A5D1-86F08B8B43F5}|TicketApp\\TicketApp.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C7358F-E619-404E-A5D1-86F08B8B43F5}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.business\\ticketappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|solutionrelative:ticketapp.business\\ticketappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.business\\ticketapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|solutionrelative:ticketapp.business\\ticketapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.data\\ticketdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|solutionrelative:ticketapp.data\\ticketdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.data\\ticketapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|solutionrelative:ticketapp.data\\ticketapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.data\\ticketapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|solutionrelative:ticketapp.data\\ticketapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|solutionrelative:ticketapp.data\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.business\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|solutionrelative:ticketapp.business\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F0F8-7AE7-4D2B-9C6E-52F5D5C3D42A}|TicketApp.Data\\TicketApp.Data.csproj|solutionrelative:ticketapp.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp.business\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD30090-F253-4B5E-BD92-B73FE9D76A35}|TicketApp.Business\\TicketApp.Business.csproj|solutionrelative:ticketapp.business\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C7358F-E619-404E-A5D1-86F08B8B43F5}|TicketApp\\TicketApp.csproj|c:\\users\\h3l3n\\source\\repos\\d\u00E9couverteef_db\\ticketapp\\ticketapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C7358F-E619-404E-A5D1-86F08B8B43F5}|TicketApp\\TicketApp.csproj|solutionrelative:ticketapp\\ticketapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketAppService.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\TicketAppService.cs",
+              "RelativeDocumentMoniker": "TicketApp.Business\\TicketAppService.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\TicketAppService.cs",
+              "RelativeToolTip": "TicketApp.Business\\TicketAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:38:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketAppRepository.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketAppRepository.cs",
+              "RelativeDocumentMoniker": "TicketApp.Data\\TicketAppRepository.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketAppRepository.cs",
+              "RelativeToolTip": "TicketApp.Data\\TicketAppRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:23:08.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketDataContext.cs",
+              "RelativeDocumentMoniker": "TicketApp.Data\\TicketDataContext.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketDataContext.cs",
+              "RelativeToolTip": "TicketApp.Data\\TicketDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:09:55.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp\\Program.cs",
+              "RelativeDocumentMoniker": "TicketApp\\Program.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp\\Program.cs",
+              "RelativeToolTip": "TicketApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:12:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketApp.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\TicketApp.Business.csproj",
+              "RelativeDocumentMoniker": "TicketApp.Business\\TicketApp.Business.csproj",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\TicketApp.Business.csproj",
+              "RelativeToolTip": "TicketApp.Business\\TicketApp.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T09:16:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketApp.Data\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\Entities\\Ticket.cs",
+              "RelativeToolTip": "TicketApp.Data\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:08:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "TicketApp.Data\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\Entities\\Customer.cs",
+              "RelativeToolTip": "TicketApp.Data\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:05:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketApp.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketApp.Data.csproj",
+              "RelativeDocumentMoniker": "TicketApp.Data\\TicketApp.Data.csproj",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Data\\TicketApp.Data.csproj",
+              "RelativeToolTip": "TicketApp.Data\\TicketApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T10:04:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketApp.csproj",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp\\TicketApp.csproj",
+              "RelativeDocumentMoniker": "TicketApp\\TicketApp.csproj",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp\\TicketApp.csproj",
+              "RelativeToolTip": "TicketApp\\TicketApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T09:39:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketApp.Business\\Ticket.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\Ticket.cs",
+              "RelativeToolTip": "TicketApp.Business\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:17:48.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\Customer.cs",
+              "RelativeDocumentMoniker": "TicketApp.Business\\Customer.cs",
+              "ToolTip": "C:\\Users\\h3l3n\\source\\repos\\D\u00E9couverteEF_DB\\TicketApp.Business\\Customer.cs",
+              "RelativeToolTip": "TicketApp.Business\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:17:11.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
